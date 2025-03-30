@@ -1,19 +1,16 @@
-## Hi there 👋
+[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://frogface539.io)
+<h1 align="center">Hi 👋, I'm Satyam Kumar Mishra</h1>
+<h3 align="center">A passionate software Engineer from India</h3>
 
-<!--
-**satyamkumarmishra2005/satyamkumarmishra2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **SpringBoot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **DSA , Web Development**
+
+- 💬 Ask me about **DSA , Java , Spring Boot**
+
+- 📫 How to reach me **satyamkumarmishra2005@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam kumar mishra  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamkumarmishra2005@gmail.com) 
