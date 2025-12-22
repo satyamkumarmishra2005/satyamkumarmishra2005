@@ -25,7 +25,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=satyamkumarmishra2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Original_sympathy334?theme=dark&font=Mina)
+
 
 
 
