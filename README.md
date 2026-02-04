@@ -185,8 +185,3 @@ Made with ❤️ by Satyam Kumar Mishra
 
 </div>
 
-<div align="center">
-
-Made with ❤️ by Satyam Kumar Mishra
-
-</div>
