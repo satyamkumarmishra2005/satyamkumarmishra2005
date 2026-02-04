@@ -9,8 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamkumarmishra2005@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyamkumarmishra2005&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -24,7 +22,6 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 🏆 **Smart India Hackathon 2025 Finalist** - Selected among top teams nationwide
 - 🥇 Secured **5th position** in IDE bootcamp
 - 💡 Interested in **Distributed Systems**, **Event-Driven Architecture**, and **API Design**
-- 🌐 Check out my website: **[satyammishra.tech](https://satyammishra.tech)**
 
 ---
 
@@ -68,7 +65,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 💼 Featured Projects
 
-### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/satyamkumarmishra2005/eazy-bank)
+### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/yourusername/eazy-bank)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -79,7 +76,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 📨 Integrated **Apache Kafka** for asynchronous, event-driven communication
 - 🐳 Containerized services using **Docker** and deployed on **Kubernetes** with self-healing & rolling updates
 
-### 🚨 [RapidAid – Emergency Response Management System](https://github.com/satyamkumarmishra2005/rapidaid)
+### 🚨 [RapidAid – Emergency Response Management System](https://github.com/yourusername/rapidaid)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=flat-square&logo=keycloak&logoColor=white)
@@ -90,7 +87,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 🔄 Designed event-driven architecture using **Kafka** for improved scalability
 - 📱 Developed responder state lifecycle management with automated notifications
 
-### 💊 [MediSort – Medicine Management System](https://github.com/satyamkumarmishra2005/medisort)
+### 💊 [MediSort – Medicine Management System](https://github.com/yourusername/medisort)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -181,61 +178,10 @@ Messaging:
 
 ### 💡 *"Building scalable systems, one microservice at a time"*
 
-**⭐ Don't forget to star my repositories if you find them useful!**
+![Profile Views](https://komarev.com/ghpvc/?username=satyamkumarmishra2005&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
----
-
-## 🔧 Setup Instructions for Snake Animation
-
-To enable the snake animation on your profile:
-
-1. **Create a repository** with your GitHub username: `satyamkumarmishra2005`
-2. **Create folder structure**: `.github/workflows/`
-3. **Create file**: `.github/workflows/snake.yml` with the following content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. **Go to Actions tab** → Click "Generate Snake" → Click "Run workflow"
-5. **Wait 1-2 minutes** for the workflow to complete
-6. **Refresh your profile** to see the animated snake! 🐍
 
 ---
 
