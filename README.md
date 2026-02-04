@@ -105,13 +105,21 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=tokyonight" alt="satyamkumarmishra2005" />
+</div> -->
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=satyamkumarmishra2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 ---
