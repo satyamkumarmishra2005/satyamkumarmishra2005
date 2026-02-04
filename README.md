@@ -167,7 +167,7 @@ Messaging:
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-satyammishra.tech-00C7B7?style=for-the-badge)](https://satyammishra.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-mishra-250781289)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarmishra2005@gmail.com)
 
