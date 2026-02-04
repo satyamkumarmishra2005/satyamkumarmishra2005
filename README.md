@@ -68,7 +68,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 💼 Featured Projects
 
-### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/satyamkumarmishra2005/eazy-bank)
+### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/satyamkumarmishra2005/eazy-bank-Microservice)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -90,7 +90,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 🔄 Designed event-driven architecture using **Kafka** for improved scalability
 - 📱 Developed responder state lifecycle management with automated notifications
 
-### 💊 [MediSort – Medicine Management System](https://github.com/satyamkumarmishra2005/medisort)
+### 💊 [MediSort – Medicine Management System](https://github.com/satyamkumarmishra2005/Medisort-fullstack)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -177,7 +177,7 @@ Messaging:
 
 <div align="center">
 
-### 💡 *"Building scalable systems, one microservice at a time"*
+### 💡 *Building scalable systems, one microservice at a time*
 
 **⭐ Don't forget to star my repositories if you find them useful!**
 
