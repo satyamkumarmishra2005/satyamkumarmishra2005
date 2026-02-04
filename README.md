@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamkumarmishra2005@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=satyamkumarmishra2005&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -22,6 +24,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 🏆 **Smart India Hackathon 2025 Finalist** - Selected among top teams nationwide
 - 🥇 Secured **5th position** in IDE bootcamp
 - 💡 Interested in **Distributed Systems**, **Event-Driven Architecture**, and **API Design**
+- 🌐 Check out my website: **[satyammishra.tech](https://satyammishra.tech)**
 
 ---
 
@@ -65,7 +68,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 💼 Featured Projects
 
-### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/yourusername/eazy-bank)
+### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/satyamkumarmishra2005/eazy-bank)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -76,7 +79,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 📨 Integrated **Apache Kafka** for asynchronous, event-driven communication
 - 🐳 Containerized services using **Docker** and deployed on **Kubernetes** with self-healing & rolling updates
 
-### 🚨 [RapidAid – Emergency Response Management System](https://github.com/yourusername/rapidaid)
+### 🚨 [RapidAid – Emergency Response Management System](https://github.com/satyamkumarmishra2005/rapidaid)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=flat-square&logo=keycloak&logoColor=white)
@@ -87,7 +90,7 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 - 🔄 Designed event-driven architecture using **Kafka** for improved scalability
 - 📱 Developed responder state lifecycle management with automated notifications
 
-### 💊 [MediSort – Medicine Management System](https://github.com/yourusername/medisort)
+### 💊 [MediSort – Medicine Management System](https://github.com/satyamkumarmishra2005/medisort)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -102,24 +105,14 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=tokyonight&hide_border=false" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamkumarmishra2005/satyamkumarmishra2005/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamkumarmishra2005/satyamkumarmishra2005/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satyamkumarmishra2005/satyamkumarmishra2005/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=tokyonight" alt="satyamkumarmishra2005" />
+</div>
 
 ---
 
@@ -178,12 +171,11 @@ Messaging:
 
 ### 💡 *"Building scalable systems, one microservice at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyamkumarmishra2005&color=blueviolet&style=flat-square&label=Profile+Views)
+**⭐ Don't forget to star my repositories if you find them useful!**
+
+Made with ❤️ by Satyam Kumar Mishra
 
 </div>
-
-
----
 
 <div align="center">
 
