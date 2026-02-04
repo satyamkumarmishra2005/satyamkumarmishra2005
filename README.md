@@ -5,7 +5,7 @@
 ### 🎓 B.Tech CSE Student | 💻 Backend Developer | ☁️ Cloud Enthusiast
 
 [![Website](https://img.shields.io/badge/Website-satyammishra.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyammishra.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satyam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-kumar-mishra-250781289)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamkumarmishra2005@gmail.com)
 
