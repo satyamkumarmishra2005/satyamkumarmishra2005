@@ -1,38 +1,168 @@
-[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://frogface539.io)
-<h1 align="center">Hi 👋, I'm Satyam Kumar Mishra</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<div align="center">
 
-<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+# 👋 Hi there, I'm Satyam Kumar Mishra
 
-- 🔭 I’m currently working on **SpringBoot**
+### 🎓 B.Tech CSE Student | 💻 Backend Developer | ☁️ Cloud Enthusiast
 
-- 🌱 I’m currently learning **DSA , Web Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satyam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyamkumarmishra2005)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamkumarmishra2005@gmail.com)
 
-- 💬 Ask me about **DSA , Java , Spring Boot**
-
-- 📫 How to reach me **satyamkumarmishra2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-kumar-mishra-250781289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-mishra-250781289" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Original_sympathy334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Original_sympathy334" height="30" width="40" /></a>
-</p>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satyamkumarmishra2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=satyamkumarmishra2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=satyamkumarmishra2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Backend Developer** skilled in building **scalable microservices** and **cloud-native applications**. Currently pursuing my Bachelor's in Computer Science at **Dronacharya College of Engineering**, I'm passionate about creating robust, containerized systems and implementing event-driven architectures.
+
+- 🔭 Working on microservices-based systems using **Spring Boot** & **Kubernetes**
+- 🌱 Learning advanced **Cloud Technologies** and **DevOps** practices
+- 🏆 **Smart India Hackathon 2025 Finalist** - Selected among top teams nationwide
+- 🥇 Secured **5th position** in IDE bootcamp
+- 💡 Interested in **Distributed Systems**, **Event-Driven Architecture**, and **API Design**
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Security & Auth
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=for-the-badge&logo=keycloak&logoColor=white)
+
+### Cloud & Integration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/yourusername/eazy-bank)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+- 🏗️ Designed cloud-native digital banking platform with **4 microservices** (Accounts, Cards, Loans, Messaging)
+- ⚙️ Implemented **Spring Cloud Config Server** for centralized configuration management
+- 📨 Integrated **Apache Kafka** for asynchronous, event-driven communication
+- 🐳 Containerized services using **Docker** and deployed on **Kubernetes** with self-healing & rolling updates
+
+### 🚨 [RapidAid – Emergency Response Management System](https://github.com/yourusername/rapidaid)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=flat-square&logo=keycloak&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- 🆘 Built microservices platform for real-time incident reporting and responder allocation
+- 🔐 Integrated **Keycloak** for secure authentication, authorization, and **RBAC**
+- 🔄 Designed event-driven architecture using **Kafka** for improved scalability
+- 📱 Developed responder state lifecycle management with automated notifications
+
+### 💊 [MediSort – Medicine Management System](https://github.com/yourusername/medisort)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+- 📋 Developed medicine management backend for organizing prescriptions from PDFs and images
+- ⏰ Implemented scheduling for dose reminders with escalation logic
+- 📊 Designed automated medicine end-date calculation and refill prediction
+- ☁️ Deployed on **AWS** (EC2, RDS, Route 53) with **Cloudinary** for document storage
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+```yaml
+Backend_Development:
+  - RESTful API Design
+  - Microservices Architecture
+  - Event-Driven Systems
+  - Domain-Driven Design
+
+Security:
+  - OAuth2 & JWT
+  - Role-Based Access Control
+  - Keycloak Integration
+  - API Security
+
+DevOps:
+  - Containerization (Docker)
+  - Orchestration (Kubernetes)
+  - CI/CD Pipelines
+  - Cloud Deployment (AWS)
+
+Messaging:
+  - Apache Kafka
+  - RabbitMQ
+  - Event Streaming
+  - Asynchronous Processing
+```
+
+---
+
+## 🏆 Achievements
+
+🥇 **Smart India Hackathon 2025 Finalist** - Selected among top teams nationwide for solution design and technical implementation
+
+🥈 **5th Position** - IDE Bootcamp
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamkumarmishra2005)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarmishra2005@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building scalable systems, one microservice at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyamkumarmishra2005&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
