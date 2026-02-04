@@ -4,6 +4,7 @@
 
 ### 🎓 B.Tech CSE Student | 💻 Backend Developer | ☁️ Cloud Enthusiast
 
+[![Website](https://img.shields.io/badge/Website-satyammishra.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyammishra.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satyam)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamkumarmishra2005@gmail.com)
@@ -99,11 +100,11 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=satyamkumarmishra2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarmishra2005&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarmishra2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Top Languages" />
 
 </div>
 
@@ -151,6 +152,7 @@ Messaging:
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/🌐_Website-satyammishra.tech-00C7B7?style=for-the-badge)](https://satyammishra.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamkumarmishra2005)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarmishra2005@gmail.com)
