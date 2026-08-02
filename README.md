@@ -68,38 +68,26 @@ I'm a **Backend Developer** skilled in building **scalable microservices** and *
 
 ## 💼 Featured Projects
 
-### 🏦 [Eazy Bank – Microservices Based Banking System](https://github.com/satyamkumarmishra2005/eazy-bank-Microservice)
+### 🤖 [DevPilot – Autonomous Code Review Platform](https://github.com/satyamkumarmishra2005/devpilot)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+ 
+- 🔄 Designed and built an event-driven code review platform that automates GitHub Pull Request analysis using **Apache Kafka** for asynchronous processing
+- 🧠 Integrated **Spring AI** with **Groq LLM** to perform automated code reviews, security analysis, and API contract validation
+- 🔐 Developed secure REST APIs with **GitHub OAuth2** authentication, **JWT**-based authorization, and **HMAC** webhook verification for repository integrations
+- ⚡ Implemented asynchronous workflows that improve scalability and enable reliable processing of repository events
+### 🌐 [OpenRelay – Intelligent Multi-Provider LLM Gateway](https://github.com/satyamkumarmishra2005/openrelay)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-- 🏗️ Designed cloud-native digital banking platform with **4 microservices** (Accounts, Cards, Loans, Messaging)
-- ⚙️ Implemented **Spring Cloud Config Server** for centralized configuration management
-- 📨 Integrated **Apache Kafka** for asynchronous, event-driven communication
-- 🐳 Containerized services using **Docker** and deployed on **Kubernetes** with self-healing & rolling updates
-
-### 🚨 [RapidAid – Emergency Response Management System](https://github.com/satyamkumarmishra2005/rapidaid)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-008aaa?style=flat-square&logo=keycloak&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-- 🆘 Built microservices platform for real-time incident reporting and responder allocation
-- 🔐 Integrated **Keycloak** for secure authentication, authorization, and **RBAC**
-- 🔄 Designed event-driven architecture using **Kafka** for improved scalability
-- 📱 Developed responder state lifecycle management with automated notifications
-
-### 💊 [MediSort – Medicine Management System](https://github.com/satyamkumarmishra2005/Medisort-fullstack)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-- 📋 Developed medicine management backend for organizing prescriptions from PDFs and images
-- ⏰ Implemented scheduling for dose reminders with escalation logic
-- 📊 Designed automated medicine end-date calculation and refill prediction
-- ☁️ Deployed on **AWS** (EC2, RDS, Route 53) with **Cloudinary** for document storage
+ 
+- 🔌 Built an OpenAI-compatible API gateway enabling seamless routing across multiple LLM providers through a single REST endpoint
+- 🏗️ Implemented **Strategy**, **Adapter**, and **Pipeline** design patterns for provider routing, request optimization, and extensible provider integrations
+- 🛡️ Built resilient routing with automatic failover, circuit breakers, provider health monitoring, and in-memory caching using **Resilience4j** and **Caffeine**
+- 📊 Built real-time monitoring dashboards for provider latency, failures, token usage, and request analytics; Dockerized the platform for simplified local deployment
+---
 
 ---
 
